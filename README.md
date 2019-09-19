@@ -1,2 +1,2 @@
-#myproject
-this is my firstly oriject
+#myProject
+this is my firstly min project
